@@ -23,4 +23,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/bhanusanjeevdagar-ops/Codes/tree/main/0283-move-zeroes/) | Easy |
+| [0392-is-subsequence](https://github.com/bhanusanjeevdagar-ops/Codes/tree/main/0392-is-subsequence/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/bhanusanjeevdagar-ops/Codes/tree/main/0392-is-subsequence/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/bhanusanjeevdagar-ops/Codes/tree/main/0392-is-subsequence/) | Easy |
 <!---LeetCode Topics End-->
