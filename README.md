@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/bhanusanjeevdagar-ops/Codes/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/bhanusanjeevdagar-ops/Codes/tree/main/0011-container-with-most-water/) | Medium |
 | [0283-move-zeroes](https://github.com/bhanusanjeevdagar-ops/Codes/tree/main/0283-move-zeroes/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/bhanusanjeevdagar-ops/Codes/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Hash Table
@@ -25,6 +26,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/bhanusanjeevdagar-ops/Codes/tree/main/0011-container-with-most-water/) | Medium |
 | [0283-move-zeroes](https://github.com/bhanusanjeevdagar-ops/Codes/tree/main/0283-move-zeroes/) | Easy |
 | [0392-is-subsequence](https://github.com/bhanusanjeevdagar-ops/Codes/tree/main/0392-is-subsequence/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/bhanusanjeevdagar-ops/Codes/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -40,4 +42,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/bhanusanjeevdagar-ops/Codes/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/bhanusanjeevdagar-ops/Codes/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
