@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/bhanusanjeevdagar-ops/Codes/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/bhanusanjeevdagar-ops/Codes/tree/main/0011-container-with-most-water/) | Medium |
 | [0283-move-zeroes](https://github.com/bhanusanjeevdagar-ops/Codes/tree/main/0283-move-zeroes/) | Easy |
+| [0605-can-place-flowers](https://github.com/bhanusanjeevdagar-ops/Codes/tree/main/0605-can-place-flowers/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/bhanusanjeevdagar-ops/Codes/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -46,4 +47,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/bhanusanjeevdagar-ops/Codes/tree/main/0011-container-with-most-water/) | Medium |
+| [0605-can-place-flowers](https://github.com/bhanusanjeevdagar-ops/Codes/tree/main/0605-can-place-flowers/) | Easy |
 <!---LeetCode Topics End-->
